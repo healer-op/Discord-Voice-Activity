@@ -1,6 +1,8 @@
 # Discord-Voice-Activity
 🐳 Turn On Discord Voice Activities with Your profile 
 
+### Star Repo or i will take your token (Jk)
+
 ### Paste This Code in Console 📝
 ```js
 // Turn On Activities in discord 
