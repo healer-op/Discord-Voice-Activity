@@ -3,6 +3,8 @@
 
 ### Star Repo or i will take your token (Jk)
 
+![image](https://cdn.discordapp.com/attachments/954246742323384370/958235171172261978/discord-loading.gif)
+
 ### Paste This Code in Console 📝
 ```js
 // Turn On Activities in discord 
